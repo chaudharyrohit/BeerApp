@@ -6,7 +6,7 @@ import java.util.List;
 public class BeerExpert {
 	public List<String> getBeerBrands(String color){
 		List<String> beerList = new ArrayList<String>();
-		
+		//random comment
 		if(color.equalsIgnoreCase("red")){
 			beerList.add("red beer1");
 			beerList.add("red beer2");
